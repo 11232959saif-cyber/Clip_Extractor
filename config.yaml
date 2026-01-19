@@ -1,0 +1,8 @@
+runtime:
+  clip_duration: 20
+  min_audio_energy_threshold: 0.01
+  motion_threshold: 12.0
+  interesting_score_threshold: 6
+  whisper_model: small
+  device: auto
+  parallel_workers: 4
