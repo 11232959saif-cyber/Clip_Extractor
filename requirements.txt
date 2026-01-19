@@ -1,0 +1,12 @@
+# Requirements for AI-Based Automatic Movie & Episode Highlight Extractor
+
+- numpy
+- pandas
+- opencv-python
+- moviepy
+- nltk
+- sklearn
+- torch
+- transformers
+- tqdm
+
